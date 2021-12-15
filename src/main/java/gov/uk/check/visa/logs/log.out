@@ -1,0 +1,7774 @@
+2021-12-12 00:12:588 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 00:12:126 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 00:12:528 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 00:12:623 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 00:12:900 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 00:12:25 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 00:12:315 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 00:12:619 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 00:12:696 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 00:12:505 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 00:12:749 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 00:12:818 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 00:12:72 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 00:12:157 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 00:12:406 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 00:12:491 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 00:12:618 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 00:12:762 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 00:12:842 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 00:12:153 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 00:12:277 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 00:12:516 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 00:12:585 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 00:12:826 INFO  ResultPage :29 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 01:12:144 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 01:12:521 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 01:12:620 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 01:12:881 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 01:12:15 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 01:12:311 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 01:12:376 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 01:12:656 INFO  ResultPage :29 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 01:12:370 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 01:12:404 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 01:12:479 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 01:12:777 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 01:12:867 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 01:12:20 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 01:12:326 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 01:12:485 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 01:12:544 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 01:12:866 INFO  ResultPage :29 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 01:12:856 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 01:12:110 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 01:12:182 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 01:12:425 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 01:12:534 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 01:12:699 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 01:12:767 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 01:12:961 INFO  ResultPage :32 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 01:12:671 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 01:12:669 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 01:12:745 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 01:12:04 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 01:12:77 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 01:12:307 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 01:12:512 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 01:12:675 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 01:12:751 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 01:12:71 INFO  ResultPage :37 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 10:12:953 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 10:12:360 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 10:12:463 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 10:12:837 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 10:12:983 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 10:12:487 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 10:12:595 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 10:12:26 INFO  ResultPage :32 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 11:12:851 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:187 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:282 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:622 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:762 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:121 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:411 INFO  FamilyImmigrationStatusPage :37 - option selected is <br>
+2021-12-12 11:12:504 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 11:12:685 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:706 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:794 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:122 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:249 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:456 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:664 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 11:12:581 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:498 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:591 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:936 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:72 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:285 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:479 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 11:12:708 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:514 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:609 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:906 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:39 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:237 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:432 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 11:12:871 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:991 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:91 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:446 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:580 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:792 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:981 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 11:12:766 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:885 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:973 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:301 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:431 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:654 INFO  ResponseForTravelPage :46 - Reason for visit is<br>
+2021-12-12 11:12:741 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:56 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 11:12:191 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:403 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:542 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:890 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:33 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:269 INFO  ResponseForTravelPage :46 - Reason for visit is<br>
+2021-12-12 11:12:360 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:631 INFO  FamilyImmigrationStatusPage :37 - option selected is <br>
+2021-12-12 11:12:739 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 11:12:91 INFO  ResultPage :32 - Result Text isYou’ll need a visa to join your family or partner in the UK<br>
+2021-12-12 11:12:751 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:667 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:762 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:145 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:277 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:482 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:799 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 11:12:11 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 11:12:101 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 11:12:106 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:92 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:191 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:514 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:647 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:943 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:203 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 11:12:386 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 11:12:471 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 11:12:763 INFO  ResultPage :37 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 11:12:493 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:442 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:533 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:865 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:00 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:277 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:505 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 11:12:696 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 11:12:796 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 11:12:56 INFO  ResultPage :32 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 11:12:852 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:946 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:52 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:444 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:586 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:857 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:67 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 11:12:315 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 11:12:427 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 11:12:721 INFO  ResultPage :32 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 11:12:562 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:664 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:769 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:109 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:249 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:532 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:744 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 11:12:947 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 11:12:49 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 11:12:372 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:694 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:841 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:243 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:392 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:651 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 11:12:754 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:162 INFO  ResultPage :38 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 11:12:104 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:974 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 11:12:485 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 11:12:586 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 11:12:954 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 11:12:95 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 11:12:453 INFO  ResponseForTravelPage :46 - Reason for visit is<br>
+2021-12-12 11:12:567 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 11:12:869 INFO  FamilyImmigrationStatusPage :37 - option selected is <br>
+2021-12-12 11:12:957 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 11:12:208 INFO  ResultPage :38 - Result Text isYou’ll need a visa to join your family or partner in the UK<br>
+2021-12-12 12:12:834 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:117 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:222 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 12:12:605 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:759 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:75 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 12:12:172 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:623 INFO  ResultPage :38 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 12:12:422 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:794 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:883 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 12:12:223 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:319 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:594 INFO  ResponseForTravelPage :46 - Reason for visit is<br>
+2021-12-12 12:12:668 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:982 INFO  FamilyImmigrationStatusPage :37 - option selected is <br>
+2021-12-12 12:12:68 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 12:12:417 INFO  ResultPage :38 - Result Text isYou’ll need a visa to join your family or partner in the UK<br>
+2021-12-12 12:12:926 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:534 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:649 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 12:12:34 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:193 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:479 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 12:12:588 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:934 INFO  ResultPage :38 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 12:12:765 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:254 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:349 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 12:12:676 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:783 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:91 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:402 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 12:12:618 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 12:12:702 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 12:12:727 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:104 INFO  StartPage :30 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:216 INFO  StartPage :36 - Clicking on start now link Start now<br>
+2021-12-12 12:12:558 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:653 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:916 INFO  ResponseForTravelPage :46 - Reason for visit is<br>
+2021-12-12 12:12:998 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:223 INFO  FamilyImmigrationStatusPage :37 - option selected is <br>
+2021-12-12 12:12:313 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 12:12:562 INFO  ResultPage :38 - Result Text isYou’ll need a visa to join your family or partner in the UK<br>
+2021-12-12 12:12:573 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:149 INFO  StartPage :29 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:237 INFO  StartPage :35 - Clicking on start now link Start now<br>
+2021-12-12 12:12:556 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:665 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:836 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 12:12:887 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:60 INFO  ResultPage :38 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 12:12:512 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:745 INFO  StartPage :29 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:820 INFO  StartPage :35 - Clicking on start now link Start now<br>
+2021-12-12 12:12:120 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:205 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:397 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 12:12:462 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:632 INFO  ResultPage :38 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 12:12:938 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:172 INFO  StartPage :29 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:243 INFO  StartPage :35 - Clicking on start now link Start now<br>
+2021-12-12 12:12:507 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:596 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:776 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 12:12:835 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:27 INFO  ResultPage :38 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 12:12:883 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:861 INFO  StartPage :29 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:933 INFO  StartPage :35 - Clicking on start now link Start now<br>
+2021-12-12 12:12:201 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:292 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:530 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:801 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 12:12:932 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 12:12:984 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 12:12:906 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:947 INFO  StartPage :29 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:22 INFO  StartPage :35 - Clicking on start now link Start now<br>
+2021-12-12 12:12:289 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:363 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:597 INFO  ResponseForTravelPage :42 - Reason for visit is<br>
+2021-12-12 12:12:649 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:919 INFO  ResultPage :38 - Result Text isYou will not need a visa to come to the UK<br>
+2021-12-12 12:12:588 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:568 INFO  StartPage :29 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:645 INFO  StartPage :35 - Clicking on start now link Start now<br>
+2021-12-12 12:12:982 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:58 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:252 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:387 INFO  DurationOfStayPage :56 - click on continue Continue<br>
+2021-12-12 12:12:507 INFO  WorkTypePage :31 - job type is<br>
+2021-12-12 12:12:564 INFO  WorkTypePage :40 - Clicking on login link Continue<br>
+2021-12-12 12:12:422 INFO  ManageDriver :30 - Launching chrome driver
+2021-12-12 12:12:503 INFO  StartPage :29 - click on cookies Accept additional cookies<br>
+2021-12-12 12:12:575 INFO  StartPage :35 - Clicking on start now link Start now<br>
+2021-12-12 12:12:858 INFO  SelectNationalityPage :40 - select NationalityAfghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe<br>
+2021-12-12 12:12:933 INFO  SelectNationalityPage :50 - click on buttonContinue<br>
+2021-12-12 12:12:242 INFO  ResponseForTravelPage :46 - Reason for visit is<br>
+2021-12-12 12:12:300 INFO  ResponseForTravelPage :54 - click on continueContinue<br>
+2021-12-12 12:12:848 INFO  FamilyImmigrationStatusPage :37 - option selected is <br>
+2021-12-12 12:12:902 INFO  FamilyImmigrationStatusPage :53 - click on continue button Continue<br>
+2021-12-12 12:12:127 INFO  ResultPage :38 - Result Text isYou’ll need a visa to join your family or partner in the UK<br>
